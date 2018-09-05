@@ -1,8 +1,9 @@
 <?php
 namespace eBaocd\Common;
 
-class xFun
+class xTemplate
 {
     
 }
+
 ?>
